@@ -170,7 +170,7 @@
     "time": "6 h",
     "book_learn": [ [ "textbook_tailor", 3 ], [ "tailor_portfolio", 5 ], [ "manual_tailor", 3 ], [ "survival_book", 3 ] ],
     "proficiencies": [ { "proficiency": "prof_closures" } ],
-    "using": [ [ "tailoring_cotton", 1 ], [ "fastener_small", 1 ] ]
+    "using": [ [ "tailoring_cotton", 6 ], [ "fastener_small", 1 ] ]
   },
   {
     "result": "kilt",
@@ -464,7 +464,7 @@
     "time": "1 h",
     "autolearn": true,
     "book_learn": [ [ "mag_tailor", 1 ], [ "manual_tailor", 1 ] ],
-    "using": [ [ "tailoring_cotton", 5 ] ]
+    "using": [ [ "tailoring_cotton", 1 ] ]
   },
   {
     "result": "pants_cargo",
